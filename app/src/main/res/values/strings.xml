@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GymTrack</string>
+    <string name="workout_title">Treinos</string>
+    <string name="workout_a">Treino A</string>
+    <string name="workout_b">Treino B</string>
+    <string name="workout_c">Treino C</string>
+    <string name="workout_d">Treino D</string>
+    <string name="workout_e">Treino E</string>
+    
+    <string name="add_exercise">Adicionar Exercício</string>
+    <string name="edit_exercise">Editar Exercício</string>
+    <string name="exercise_name_hint">Nome do exercício (ex: Supino Reto)</string>
+    <string name="target_sets_hint">Séries alvo (ex: 4)</string>
+    <string name="weight_hint">Carga em kg (ex: 60.0)</string>
+    
+    <string name="save">Salvar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Remover</string>
+    <string name="confirm_delete">Deseja remover este exercício?</string>
+    <string name="rest_timer_title">Descanso entre séries</string>
+    
+    <string name="empty_workout_title">Nenhum exercício cadastrado</string>
+    <string name="empty_workout_desc">Toque em \"+ Adicionar\" para montar sua ficha de treino.</string>
+</resources>

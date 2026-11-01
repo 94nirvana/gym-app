@@ -1,0 +1,42 @@
+# Gradle and Android build output
+.gradle/
+**/build/
+local.properties
+
+# IDE and operating system files
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Generated Android packages and compiled files
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# Local environment, credentials, and signing material
+.env
+.env.*
+!.env.example
+secrets.properties
+**/secrets.properties
+key.properties
+keystore.properties
+credentials.properties
+credentials.json
+google-services.json
+service-account*.json
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+*.mobileprovision
+backups/
+
+# Local backups and obsolete copies in this workspace
+app/build.gradle.kts.bak
+app/build.gradle.kts.test
